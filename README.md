@@ -12,6 +12,7 @@ Various projects analyzed are -
 Tools used to analyze the projects - 
 
 Teamscale: https://www.cqse.eu/en/products/teamscale/landing/
+
 Sonarqube : https://www.sonarqube.org/
 
 
